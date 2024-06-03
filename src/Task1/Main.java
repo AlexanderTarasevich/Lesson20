@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Пользователь вводит с клавиатуры значение в массив. После чего запускаются два
 //потока. Первый поток находит максимум в массиве, второй — минимум. Результаты
 //вычислений возвращаются в метод Task1.main().
-public class main {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] userArray = new int[5];
